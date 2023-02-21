@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 I aspire to bring people closer together with the leverage of technology — delivering well-structured, fast, reliable, and user-centered software products.
 
-*   🌍  I'm based in Bay Area
+*   🌍  I'm based in Bay Area, CA
 *   🖥️  See my portfolio at [Artemio.tech](http://artemio.tech)
 *   ✉️  You can contact me at [arstrel@gmail.com](mailto:arstrel@gmail.com)
 *   🚀  I'm currently working on [Fuzion by Freeman™](https://www.freeman.com/about/press/enhancements-to-the-fuzion-by-freeman-ecosystem-help-customers-and-partners-thrive/)
