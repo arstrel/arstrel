@@ -9,7 +9,7 @@ I aspire to bring people closer together with the leverage of technology — del
 *   🌍  I'm based in Bay Area
 *   🖥️  See my portfolio at [Artemio.tech](http://artemio.tech)
 *   ✉️  You can contact me at [arstrel@gmail.com](mailto:arstrel@gmail.com)
-*   🚀  I'm currently working on [Freeman Fuzion](https://www.freeman.com/about/press/enhancements-to-the-fuzion-by-freeman-ecosystem-help-customers-and-partners-thrive/)
+*   🚀  I'm currently working on [Fuzion by Freeman™](https://www.freeman.com/about/press/enhancements-to-the-fuzion-by-freeman-ecosystem-help-customers-and-partners-thrive/)
 *   🧠  I'm learning Go
 ### Skills
 
