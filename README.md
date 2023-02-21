@@ -34,10 +34,62 @@ I aspire to bring people closer together with the leverage of technology — del
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
                     
+### AWS Skills
+
+<a
+          href="https://www.credly.com/badges/26480d88-e5c6-430b-a880-af5289fa29a9/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png"
+            alt="AWS Serverless"
+            width="45"
+            height="45"
+          />
+        </a>
+          <a
+          href="https://www.credly.com/badges/26480d88-e5c6-430b-a880-af5289fa29a9/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+            alt="AWS Certified Solutions Architect – Associate"
+            width="45"
+            height="45"
+          />
+        </a>
+        <a
+          href="https://www.credly.com/badges/0ba8668f-5377-4fc0-b28e-b8bace69e9ee/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+            alt="AWS Certified Developer – Associate"
+            width="45"
+            height="45"
+          />
+        </a>
+        <a
+          href="https://www.credly.com/badges/8e8b6a0d-2e2b-4513-9567-e74b258d22d2/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+            alt="AWS Certified Cloud Practitioner"
+            width="45"
+            height="45"
+          />
+        </a>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/arstrel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arstrel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@arstrel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/arstrel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arstrel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@arstrel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+
+</p>
 
 ### Badges
 
