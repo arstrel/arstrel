@@ -6,7 +6,7 @@ I aspire to bring people closer together with the leverage of technology — del
 *   🌍  I'm based in Bay Area, CA
 *   🖥️  See my portfolio at [Artemio.tech](http://artemio.tech)
 *   ✉️  You can contact me at [arstrel@gmail.com](mailto:arstrel@gmail.com)
-*   🚀  I'm currently working on [Fuzion by Freeman™](https://www.freeman.com/about/press/enhancements-to-the-fuzion-by-freeman-ecosystem-help-customers-and-partners-thrive/)
+*   🚀  I'm currently working at [Sofar Ocean](https://www.sofarocean.com/) in Fleet team that gathers data from [a network of ocean spotters](https://www.sofarocean.com/products/spotter)
 *   🧠  I'm learning Go
 ### Skills
 
