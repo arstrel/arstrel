@@ -92,7 +92,7 @@ I aspire to bring people closer together with the leverage of technology — del
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arstrel"><img src="https://github-readme-stats.vercel.app/api?username=arstrel&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arstrel's GitHub stats" /></a>
+<a href="http://www.github.com/arstrel"><img src="https://github-stats-sandy-psi.vercel.app/api?username=arstrel&show=reviews,prs_merged,prs_merged_percentage&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arstrel's GitHub stats" /></a>
 
 <a href="http://www.github.com/arstrel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arstrel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
